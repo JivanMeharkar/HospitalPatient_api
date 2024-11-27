@@ -1,0 +1,72 @@
+   {
+        "id": 1,
+        "name": "gopal mishra",
+        "disease": "nimonia",
+        "age": 12
+    },
+    {
+        "id": 2,
+        "name": "vikas gupata",
+        "disease": "nimonia",
+        "age": 36
+    },
+    {
+        "id": 3,
+        "name": "gavtam nare",
+        "disease": "nimonia",
+        "age": 82
+    },
+    {
+        "id": 4,
+        "name": "ankit data",
+        "disease": "nimonia",
+        "age": 50
+    },
+    {
+        "id": 5,
+        "name": "ajay gode",
+        "disease": "nimonia",
+        "age": 17
+    },
+    {
+        "id": 6,
+        "name": "sanket lad",
+        "disease": "nimonia",
+        "age": 56
+    },
+    {
+        "id": 7,
+        "name": "akashy dube",
+        "disease": "nimonia",
+        "age": 27
+    },
+    {
+        "id": 8,
+        "name": "ram",
+        "disease": "maliera",
+        "age": 24
+    },
+    {
+        "id": 9,
+        "name": "vijay",
+        "disease": "dengudf",
+        "age": 45
+    },
+    {
+        "id": 10,
+        "name": "shamm",
+        "disease": "dengudf",
+        "age": 45
+    },
+    {
+        "id": 11,
+        "name": "raju",
+        "disease": "typoid",
+        "age": 24
+    },
+    {
+        "id": 12,
+        "name": "vishal",
+        "disease": "typoit",
+        "age": 34
+    }
